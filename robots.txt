@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beritaviralterkini25.github.io/home/
